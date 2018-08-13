@@ -1,7 +1,5 @@
 First Line
 Second Line
-<<<<<<< HEAD
-Third Line
-=======
+
 Third Line from Cloud
->>>>>>> e6acfe3490e1823d0ce25b71afcd87e66a971d44
+
