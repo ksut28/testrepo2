@@ -2,6 +2,11 @@ First Line
 Second Line
 
 Third Line from Cloud
+
+Modified you idiot!
+
 fourth line from local
 
 Haleem modified
+
+Yeah, I fixed the conflicts
